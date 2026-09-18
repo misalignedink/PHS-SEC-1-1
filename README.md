@@ -1,6 +1,6 @@
 # PHS-SEC-1-1 : Introduction to Computer Programming and Graph Plotting
 
-A complete collection of **syllabus, previous-year questions, solved problems, algorithms, and Python codes** for PHS-SEC-1-1.
+A complete collection of **syllabus, previous-year questions, solved problems, algorithms, and Python codes** for PHS-SEC-1-1 paper of University Calcutta 6-physics-CSR-25 syllabus.
 
 ---
 
