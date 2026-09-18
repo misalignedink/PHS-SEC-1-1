@@ -19,6 +19,9 @@ A complete collection of **syllabus, previous-year questions, solved problems, a
 | 2023 | Set 1 | [View](./PYQs/PYQ_2023_PHS_SEC_1_1_Set_1.pdf) | [Solutions](#) |
 | 2023 | Set 2 | [View](./PYQs/PYQ_2023_PHS_SEC_1_1_Set_2.pdf) | [Solutions](#) |
 | 2023 | Set 3 | [View](./PYQs/PYQ_2023_PHS_SEC_1_1_Set_3.pdf) | [Solutions](#) |
+| 2024 | Set 1 | [View](./PYQs/PYQ_2024_PHS_SEC_1_1_Set_1.pdf) | [Solutions](#) |
+| 2023 | Set 2 | [View](./PYQs/PYQ_2024_PHS_SEC_1_1_Set_2.pdf) | [Solutions](#) |
+| 2023 | Set 3 | [View](./PYQs/PYQ_2024_PHS_SEC_1_1_Set_3.pdf) | [Solutions](#) |
 
 > More PYQs will be added as they become available.
 
