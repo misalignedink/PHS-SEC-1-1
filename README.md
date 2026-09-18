@@ -2,6 +2,7 @@
 
 A complete collection of **syllabus, previous-year questions, solved problems, algorithms, and Python codes** for PHS-SEC-1-1.
 
+---
 
 <b>*Syllabus*</b>
 
