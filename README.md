@@ -3,66 +3,66 @@
 A complete collection of **syllabus, previous-year questions, solved problems, algorithms, and Python codes** for PHS-SEC-1-1.
 
 
-## 📋 Syllabus
+<b>*Syllabus*</b>
 
 > The complete syllabus followed for this course is provided below.
 
-**[View / Download Syllabus](./Syllabus/syllabus.pdf)**
+[View / Download Syllabus](./Syllabus/syllabus.pdf)
 
 ---
 
-## 📑 PYQ Archive
+<b>*PYQ Archive*</b>
 
 | Year | Paper / Set | Questions | Solutions |
 |---|---|---|---|
-| 2023 | Set 1 | [View](./PYQs/2023/Set-1.md) | [Solutions](./Solutions/2023/Set-1.md) |
-| 2023 | Set 2 | [View](./PYQs/2023/Set-2.md) | [Solutions](./Solutions/2023/Set-2.md) |
-| 2023 | Set 3 | [View](./PYQs/2023/Set-3.md) | [Solutions](./Solutions/2023/Set-3.md) |
+| 2023 | Set 1 | [View](./PYQs/PYQ_2023_PHS_SEC_1_1_Set_1.pdf) | [Solutions](#) |
+| 2023 | Set 2 | [View](./PYQs/PYQ_2023_PHS_SEC_1_1_Set_2.pdf) | [Solutions](#) |
+| 2023 | Set 3 | [View](./PYQs/PYQ_2023_PHS_SEC_1_1_Set_3.pdf) | [Solutions](#) |
 
 > More PYQs will be added as they become available.
 
 ---
 
-## 💻 Problems & Applications
+ <b>*Problems & Applications*</b>
 
 This section contains the problems that are directly mentioned in the syllabus.
 
-### 🔢 Number & Integer Problems
+ Number & Integer Problems
 
-- [Finding factors of an integer](./Codes/factors.py)
-- [Checking whether an integer is prime](./Codes/prime.py)
-- [Finding prime numbers greater than a given value](./Codes/prime-greater.py)
-- [Finding prime numbers less than a given value](./Codes/prime-lesser.py)
-- [Finding all prime numbers within a given range](./Codes/primes-in-range.py)
+- [Finding factors of an integer](#)
+- [Checking whether an integer is prime](#)
+- [Finding prime numbers greater than a given value](#)
+- [Finding prime numbers less than a given value](#)
+- [Finding all prime numbers within a given range](#)
 
-### 🧮 Root Finding
+ Root Finding
 
-- [Bisection Method](./Codes/bisection.py)
-- [Newton-Raphson Method](./Codes/newton-raphson.py)
-- [Root finding for a single-variable equation](./Codes/root-finding.py)
+- [Bisection Method](#)
+- [Newton-Raphson Method](#)
+- [Root finding for a single-variable equation](#)
 
-### 🔢 Sorting
+ Sorting
 
-- [Bubble Sort](./Codes/bubble-sort.py)
-- [Selection Sort](./Codes/selection-sort.py)
+- [Bubble Sort](#)
+- [Selection Sort](#)
 
-### 📐 Numerical Series
+ Numerical Series
 
-- [Sine series](./Codes/sine-series.py)
-- [Cosine series](./Codes/cosine-series.py)
-- [Exponential series](./Codes/exponential-series.py)
-- [Series summation up to a specified accuracy](./Codes/series.py)
+- [Sine series](#)
+- [Cosine series](#)
+- [Exponential series](#)
+- [Series summation up to a specified accuracy](#)
 
-### ⚛️ Physics Applications
+ Physics Applications
 
-- [1D particle motion under a given force](./Codes/particle-motion.py)
-- [Euler's Method](./Codes/euler-method.py)
-- [Position, velocity and time data generation](./Codes/particle-data.py)
-- [Plotting numerical results](./Codes/plotting.py)
+- [1D particle motion under a given force](#)
+- [Euler's Method](#)
+- [Position, velocity and time data generation](#)
+- [Plotting numerical results](#)
 
 ---
 
-## 📂 Repository Structure
+ Repository Structure
 
 ```text
 PHS-SEC-1-1/
@@ -73,31 +73,6 @@ PHS-SEC-1-1/
 │   └── syllabus.pdf
 │
 ├── PYQs/
-│   ├── 2023/
-│   │   ├── Set-1.md
-│   │   ├── Set-2.md
-│   │   └── Set-3.md
-│   │
-│   └── ...
-│
-├── Solutions/
-│   ├── 2023/
-│   │   ├── Set-1.md
-│   │   ├── Set-2.md
-│   │   └── Set-3.md
-│   │
-│   └── ...
-│
-├── Codes/
-│   ├── Basic/
-│   ├── Numerical-Methods/
-│   ├── Sorting/
-│   ├── Series/
-│   ├── Physics/
-│   └── PYQs/
-│
-├── Data/
-│   └── ...
-│
-└── Figures/
-    └── ...
+│   ├── PYQ_2023_PHS_SEC_1_1_Set_1.pdf
+│   ├── PYQ_2023_PHS_SEC_1_1_Set_2.pdf
+│   ├── PYQ_2023_PHS_SEC_1_1_Set_3.pdf
