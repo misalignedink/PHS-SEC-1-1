@@ -23,7 +23,7 @@ set ylabel "y-values"
 
 # Output Setup
 set terminal pngcairo enhanced font "Arial,10"
-set output "prblm_3_plot.png"
+set output "set_01_grpA_prblm_03_plot.png"
 
 # Plot curves with different line style and line widths
 plot f1(x) dt 1 lw 2 title "f_1(x)",\

@@ -22,7 +22,7 @@ set title "Function plots"
 
 # Output setup
 set terminal pngcairo enhanced font "Arial, 10"
-set output "prblm_2_plot.png"
+set output "set_01_grpA_prblm_02_plot.png"
 
 plot f1(x) dt 1 lw 2 title "f_1(x)",\
      f2(x) dt 2 lw 3 title "f_2(x)",\

@@ -22,7 +22,7 @@ set title "Piece-wise continuous functions"
 
 # Output setup
 set terminal pngcairo enhanced font "Arial, 10"
-set output "prblm_4_plot.png"
+set output "set_02_grpA_prblm_04_plot.png"
 
 # Plot curve
 plot f(x), g(x), h(x)
