@@ -8,8 +8,8 @@ h(x) = (x<-1) ? abs(x)*exp(x) : 1/0
 
 # For readability
 set grid
-set xzeroaxis
-set yzeroaxis
+set xzeroaxis linetype -1
+set yzeroaxis linetype -1
 
 # Range setup
 set xrange [-2:3]

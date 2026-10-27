@@ -8,8 +8,8 @@ f3(x) = 12.34*x**(5.0/3.0)
 
 # For readability
 set grid
-set xzeroaxis
-set yzeroaxis
+set xzeroaxis linetype -1
+set yzeroaxis linetype -1
 
 # Range and sample setupt
 set xrange [0:pi]
