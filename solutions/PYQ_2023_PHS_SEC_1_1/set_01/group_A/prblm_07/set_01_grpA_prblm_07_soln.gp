@@ -18,8 +18,13 @@ fit f(x) "set_01_grpA_prblm_07_data.txt" via a
 # Pring the value of a 
 print "a = ", a 
 
+# Set title and label
+set title "Data fitting"
+set xlabel "x"
+set ylabel "f(x)"
+
 # Setting output
-set terminal pngcairo
+set terminal pngcairo enhanced font "Arial, 10"
 set output "set_01_grpA_prblm_07_plot.png"
 
 # Plotting the curve
