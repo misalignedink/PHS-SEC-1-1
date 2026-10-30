@@ -1,0 +1,36 @@
+
+
+*******************************************************************************
+Sat Oct 31 01:41:28 2026
+
+
+FIT:    data read from "set_02_grpA_prblm_01_data.txt"
+        format = z
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a*x**b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 2.7704925326e+01   0.00e+00  7.62e-01    1.000000e+00   1.000000e-01
+   6 4.1473460156e-04  -1.88e-03  7.62e-07    7.302905e+00  -1.893762e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.000414735
+rel. change during last iteration : -1.87652e-08
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00769726
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5.92478e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 7.30291          +/- 0.01435      (0.1965%)
+b               = -1.89376         +/- 0.004131     (0.2181%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.862  1.000 

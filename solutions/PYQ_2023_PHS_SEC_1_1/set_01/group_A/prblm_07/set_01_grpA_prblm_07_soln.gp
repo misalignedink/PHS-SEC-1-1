@@ -30,3 +30,6 @@ set output "set_01_grpA_prblm_07_plot.png"
 # Plotting the curve
 plot "set_01_grpA_prblm_07_data.txt" using 1:2 with points pt 3 title "Data points",\
         f(x) lw 2 title "fitted curve"
+
+# closing output 
+set output
