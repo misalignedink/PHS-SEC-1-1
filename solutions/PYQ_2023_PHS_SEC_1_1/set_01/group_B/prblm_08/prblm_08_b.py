@@ -6,4 +6,9 @@ S = 0 # Initial sum
 for i in range (1,21): # Loops directly from 1 to 20
     S += i
 
-print(f"Sum of first 20 natural numbers: {S}")
+print(f"Sum of first 20 natural numbers: {S} (Ans.)")
+
+'''
+output:
+Sum of first 20 natural numbers: 210 (Ans.)
+'''
